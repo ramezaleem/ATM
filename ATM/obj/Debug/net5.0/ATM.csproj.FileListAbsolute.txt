@@ -1,0 +1,16 @@
+E:\C# Projects\ATM.Console\ATM\bin\Debug\net5.0\ATM.exe
+E:\C# Projects\ATM.Console\ATM\bin\Debug\net5.0\ATM.deps.json
+E:\C# Projects\ATM.Console\ATM\bin\Debug\net5.0\ATM.runtimeconfig.json
+E:\C# Projects\ATM.Console\ATM\bin\Debug\net5.0\ATM.runtimeconfig.dev.json
+E:\C# Projects\ATM.Console\ATM\bin\Debug\net5.0\ATM.dll
+E:\C# Projects\ATM.Console\ATM\bin\Debug\net5.0\ref\ATM.dll
+E:\C# Projects\ATM.Console\ATM\bin\Debug\net5.0\ATM.pdb
+E:\C# Projects\ATM.Console\ATM\obj\Debug\net5.0\ATM.csproj.AssemblyReference.cache
+E:\C# Projects\ATM.Console\ATM\obj\Debug\net5.0\ATM.GeneratedMSBuildEditorConfig.editorconfig
+E:\C# Projects\ATM.Console\ATM\obj\Debug\net5.0\ATM.AssemblyInfoInputs.cache
+E:\C# Projects\ATM.Console\ATM\obj\Debug\net5.0\ATM.AssemblyInfo.cs
+E:\C# Projects\ATM.Console\ATM\obj\Debug\net5.0\ATM.csproj.CoreCompileInputs.cache
+E:\C# Projects\ATM.Console\ATM\obj\Debug\net5.0\ATM.dll
+E:\C# Projects\ATM.Console\ATM\obj\Debug\net5.0\ref\ATM.dll
+E:\C# Projects\ATM.Console\ATM\obj\Debug\net5.0\ATM.pdb
+E:\C# Projects\ATM.Console\ATM\obj\Debug\net5.0\ATM.genruntimeconfig.cache
